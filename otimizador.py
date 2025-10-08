@@ -1,6 +1,5 @@
 ﻿print("=" * 50)
 print("🚀 LOGISTICS OPTIMIZER - HAROLDO ENGINEERING")
-print("🎯 DAY 1: ALGORITMOS DOS 0.1%")
 print("=" * 50)
 
 import math
